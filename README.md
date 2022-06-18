@@ -1,4 +1,4 @@
-# ReddisImplementationTest
+# RedisImplementationTest
 Тестовое задание на позицию стажера backend в юнит Geo
 
 Цель задания – разработать приложение имплементацию in-memory Redis кеша.
